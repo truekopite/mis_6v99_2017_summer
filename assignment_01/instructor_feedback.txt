@@ -1,10 +1,22 @@
 
-2017-07-02 09:56 Sunday
+2017-07-02 10:57 Sunday
  Checking Directory: assignment_01 File: create_flight_schedule.py
 Assignment source code file found
 Assignment source code completed a run without a stack trace
 Please check instructor_stdout.txt for stdout (if any)
 Please check instructor_stderr.txt for stderr (if any)
 Attempting to read flight schedule file: flight_schedule.csv
-Invalid schedule file header: tail_number,origin,destination,departure_time,arrival_time,ground_time
-Flight schedule file did not load and validate - 0 points
+[['T1', 'AUS', 'HOU', '0600', 360, '0645', 405], ['T1', 'HOU', 'AUS', '0721', 441, '0806', 486], ['T1', 'AUS', 'HOU', '0832', 512, '0917', 557], ['T1', 'HOU', 'AUS', '0953', 593, '1038', 638], ['T1', 'AUS', 'HOU', '1104', 664, '1149', 709], ['T1', 'HOU', 'AUS', '1225', 745, '1310', 790], ['T1', 'AUS', 'HOU', '1336', 816, '1421', 861], ['T1', 'HOU', 'AUS', '1457', 897, '1542', 942], ['T1', 'AUS', 'HOU', '1648', 1008, '1733', 1053], ['T1', 'HOU', 'AUS', '1809', 1089, '1854', 1134], ['T1', 'AUS', 'HOU', '2004', 1204, '2049', 1249], ['T2', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T2', 'DAL', 'HOU', '0736', 456, '0841', 521], ['T2', 'HOU', 'DAL', '0917', 557, '1022', 622], ['T2', 'DAL', 'HOU', '1053', 653, '1158', 718], ['T2', 'HOU', 'DAL', '1234', 754, '1339', 819], ['T2', 'DAL', 'HOU', '1410', 850, '1515', 915], ['T2', 'HOU', 'DAL', '1551', 951, '1656', 1016], ['T2', 'DAL', 'HOU', '1727', 1047, '1832', 1112], ['T2', 'HOU', 'DAL', '1908', 1148, '2013', 1213], ['T2', 'DAL', 'HOU', '2044', 1244, '2149', 1309], ['T3', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T3', 'DAL', 'HOU', '0736', 456, '0841', 521], ['T3', 'HOU', 'DAL', '0917', 557, '1022', 622], ['T3', 'DAL', 'HOU', '1053', 653, '1158', 718], ['T3', 'HOU', 'DAL', '1234', 754, '1339', 819], ['T3', 'DAL', 'HOU', '1410', 850, '1515', 915], ['T3', 'HOU', 'DAL', '1551', 951, '1656', 1016], ['T3', 'DAL', 'HOU', '1727', 1047, '1832', 1112], ['T3', 'HOU', 'DAL', '1908', 1148, '2013', 1213], ['T3', 'DAL', 'HOU', '2044', 1244, '2149', 1309], ['T4', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T4', 'HOU', 'DAL', '0741', 461, '0846', 526], ['T4', 'DAL', 'HOU', '0917', 557, '1022', 622], ['T4', 'HOU', 'DAL', '1058', 658, '1203', 723], ['T4', 'DAL', 'HOU', '1234', 754, '1339', 819], ['T4', 'HOU', 'DAL', '1415', 855, '1520', 920], ['T4', 'DAL', 'HOU', '1551', 951, '1656', 1016], ['T4', 'HOU', 'DAL', '1732', 1052, '1837', 1117], ['T4', 'DAL', 'HOU', '1908', 1148, '2013', 1213], ['T4', 'HOU', 'DAL', '2049', 1249, '2154', 1314], ['T5', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T5', 'HOU', 'DAL', '0741', 461, '0846', 526], ['T5', 'DAL', 'HOU', '0917', 557, '1022', 622], ['T5', 'HOU', 'DAL', '1058', 658, '1203', 723], ['T5', 'DAL', 'HOU', '1234', 754, '1339', 819], ['T5', 'HOU', 'DAL', '1415', 855, '1520', 920], ['T5', 'DAL', 'HOU', '1551', 951, '1656', 1016], ['T5', 'HOU', 'DAL', '1732', 1052, '1837', 1117], ['T5', 'DAL', 'HOU', '1908', 1148, '2013', 1213], ['T5', 'HOU', 'DAL', '2049', 1249, '2154', 1314], ['T6', 'HOU', 'AUS', '0600', 360, '0645', 405], ['T6', 'AUS', 'HOU', '0711', 431, '0756', 476], ['T6', 'HOU', 'AUS', '0832', 512, '0917', 557], ['T6', 'AUS', 'HOU', '0943', 583, '1028', 628], ['T6', 'HOU', 'AUS', '1104', 664, '1149', 709], ['T6', 'AUS', 'HOU', '1215', 735, '1300', 780], ['T6', 'HOU', 'AUS', '1336', 816, '1421', 861], ['T6', 'AUS', 'HOU', '1507', 907, '1552', 952], ['T6', 'HOU', 'AUS', '1628', 988, '1713', 1033], ['T6', 'AUS', 'HOU', '1823', 1103, '1908', 1148], ['T6', 'HOU', 'AUS', '1944', 1184, '2029', 1229]]
+Successful run of program - 5 points
+Flight schedule file loaded and validated - 5 points
+Noise restrictions validated - 5 points
+Flight times validated - 5 points
+Ground times validated - 5 points
+Maximum aircraft per gates at airport validated - 5 points
+Aircraft are in position for the next day validated - 5 points
+All aircraft flew at least 5 flights - 10 points
+Market AUSDAL has less than 3 flights
+Market DALAUS has less than 3 flights
+All aircraft did not fly at least 3 fligths per market - 0 points
+Total number of flights was 62
+Students will receive up to 10 points depending on the percentile of their number of flights
