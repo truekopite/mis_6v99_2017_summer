@@ -198,7 +198,6 @@ for item in new:
     temp.append(item[2])
     temp.append(mintomid_miltim(item[3]))
     temp.append(mintomid_miltim(item[4]))
-    temp.append(mintomid_miltim(item[5]))
     final.append(temp)
 
 final
@@ -210,7 +209,7 @@ final
 
 # In[10]:
 
-csv_header = 'tail_number,origin,destination,departure_time,arrival_time,ground_time'
+csv_header = 'tail_number,origin,destination,departure_time,arrival_time'
 file_name = 'flight_schedule.csv'
 
 def print_flt_sedule(fn, csv_hdr, flt_sched):
