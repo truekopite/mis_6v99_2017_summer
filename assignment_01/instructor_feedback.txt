@@ -1,4 +1,10 @@
 
-2017-07-01 20:01 Saturday
+2017-07-02 09:56 Sunday
  Checking Directory: assignment_01 File: create_flight_schedule.py
-Assignment source code file not found - not able to run it
+Assignment source code file found
+Assignment source code completed a run without a stack trace
+Please check instructor_stdout.txt for stdout (if any)
+Please check instructor_stderr.txt for stderr (if any)
+Attempting to read flight schedule file: flight_schedule.csv
+Invalid schedule file header: tail_number,origin,destination,departure_time,arrival_time,ground_time
+Flight schedule file did not load and validate - 0 points
