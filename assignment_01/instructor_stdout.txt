@@ -1,2 +1,4105 @@
-
-This file will contain the contents of stdout (if any) after both preliminary and final grading runs
+HOU
+DAL
+DAL
+HOU
+HOU
+AUS
+{'HOU': [440, 460, 460], 'DAL': [455, 455], 'AUS': [430]}
+tim total: 481
+gates open time: 455
+gates closed: 1
+gates: 3
+from: AUS
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 455
+{'HOU': [440, 460, 460], 'DAL': [455, 455], 'AUS': [430]}
+tim total: 476
+gates open time: 440
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 440
+{'HOU': [440, 460, 460], 'DAL': [455, 455], 'AUS': [430]}
+tim total: 496
+gates open time: 440
+gates closed: 1
+gates: 4
+tim total: 481
+gates open time: 430
+gates closed: 1
+gates: 2
+tim total: 476
+gates open time: 430
+gates closed: 1
+gates: 2
+tim total: 496
+gates open time: 455
+gates closed: 1
+gates: 3
+prog 1 0
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 511
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 431, 476, 511]
+tim total: 491
+gates open time: 455
+gates closed: 1
+gates: 3
+tim total: 486
+gates open time: 460
+gates closed: 2
+gates: 4
+tim total: 506
+gates open time: 460
+gates closed: 2
+gates: 4
+tim total: 491
+gates open time: 430
+gates closed: 1
+gates: 2
+tim total: 486
+gates open time: 430
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 430
+{'HOU': [460, 460, 511], 'DAL': [455, 455], 'AUS': [430]}
+tim total: 506
+gates open time: 455
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 455
+{'HOU': [460, 460, 511], 'DAL': [455, 455], 'AUS': [430]}
+prog 1 0
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 511
+out of func
+Modifying the record: ['T1', 'HOU', 'AUS', 441, 486, 511]
+tim total: 506
+gates open time: 455
+gates closed: 1
+gates: 3
+tim total: 501
+gates open time: 460
+gates closed: 2
+gates: 4
+tim total: 521
+gates open time: 460
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 460
+{'HOU': [460, 460, 511], 'DAL': [455, 455], 'AUS': [511]}
+tim total: 506
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 501
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 521
+gates open time: 455
+gates closed: 1
+gates: 3
+prog 1 0
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 556
+out of func
+Modifying the record: ['T2', 'DAL', 'HOU', 456, 521, 556]
+tim total: 506
+gates open time: 455
+gates closed: 1
+gates: 3
+tim total: 501
+gates open time: 460
+gates closed: 3
+gates: 4
+tim total: 521
+gates open time: 460
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 460
+{'HOU': [460, 511, 556], 'DAL': [455, 455], 'AUS': [511]}
+tim total: 506
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 501
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 521
+gates open time: 455
+gates closed: 1
+gates: 3
+prog 1 0
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 556
+out of func
+Modifying the record: ['T3', 'DAL', 'HOU', 456, 521, 556]
+tim total: 511
+gates open time: 455
+gates closed: 1
+gates: 3
+tim total: 506
+gates open time: 511
+gates closed: 4
+gates: 4
+tim total: 526
+gates open time: 511
+gates closed: 4
+gates: 4
+tim total: 511
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 506
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 526
+gates open time: 455
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 455
+{'HOU': [511, 556, 556], 'DAL': [455, 455], 'AUS': [511]}
+prog 1 0
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 556
+out of func
+Modifying the record: ['T4', 'HOU', 'DAL', 461, 526, 556]
+tim total: 511
+gates open time: 455
+gates closed: 2
+gates: 3
+tim total: 506
+gates open time: 511
+gates closed: 4
+gates: 4
+tim total: 526
+gates open time: 511
+gates closed: 4
+gates: 4
+tim total: 511
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 506
+gates open time: 511
+gates closed: 2
+gates: 2
+tim total: 526
+gates open time: 455
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 455
+{'HOU': [511, 556, 556], 'DAL': [455, 556], 'AUS': [511]}
+prog 1 0
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 556
+out of func
+Modifying the record: ['T5', 'HOU', 'DAL', 461, 526, 556]
+tim total: 562
+gates open time: 556
+gates closed: 1
+gates: 3
+tim total: 557
+gates open time: 511
+gates closed: 1
+gates: 4
+tim total: 577
+gates open time: 511
+gates closed: 1
+gates: 4
+tim total: 562
+gates open time: 511
+gates closed: 1
+gates: 2
+tim total: 557
+gates open time: 511
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 511
+{'HOU': [511, 556, 556], 'DAL': [556, 556], 'AUS': [511]}
+tim total: 577
+gates open time: 556
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 556
+{'HOU': [511, 556, 556], 'DAL': [556, 556], 'AUS': [511]}
+prog 1 1
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 582
+out of func
+Modifying the record: ['T6', 'HOU', 'AUS', 512, 557, 582]
+tim total: 562
+gates open time: 556
+gates closed: 1
+gates: 3
+from: AUS
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 556
+{'HOU': [511, 556, 556], 'DAL': [556, 556], 'AUS': [582]}
+tim total: 557
+gates open time: 511
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 511
+{'HOU': [511, 556, 556], 'DAL': [556, 556], 'AUS': [582]}
+tim total: 577
+gates open time: 511
+gates closed: 1
+gates: 4
+tim total: 562
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 557
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 577
+gates open time: 556
+gates closed: 1
+gates: 3
+prog 1 1
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 592
+out of func
+Modifying the record: ['T1', 'AUS', 'HOU', 512, 557, 592]
+tim total: 607
+gates open time: 556
+gates closed: 1
+gates: 3
+tim total: 602
+gates open time: 556
+gates closed: 2
+gates: 4
+tim total: 622
+gates open time: 556
+gates closed: 2
+gates: 4
+tim total: 607
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 602
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 622
+gates open time: 556
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 556
+{'HOU': [556, 556, 592], 'DAL': [556, 556], 'AUS': [582]}
+prog 1 1
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 652
+out of func
+Modifying the record: ['T2', 'HOU', 'DAL', 557, 622, 652]
+tim total: 607
+gates open time: 556
+gates closed: 2
+gates: 3
+tim total: 602
+gates open time: 556
+gates closed: 2
+gates: 4
+tim total: 622
+gates open time: 556
+gates closed: 2
+gates: 4
+tim total: 607
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 602
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 622
+gates open time: 556
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 556
+{'HOU': [556, 556, 592], 'DAL': [556, 652], 'AUS': [582]}
+prog 1 1
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 652
+out of func
+Modifying the record: ['T3', 'HOU', 'DAL', 557, 622, 652]
+tim total: 607
+gates open time: 652
+gates closed: 3
+gates: 3
+tim total: 602
+gates open time: 556
+gates closed: 2
+gates: 4
+tim total: 622
+gates open time: 556
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 556
+{'HOU': [556, 556, 592], 'DAL': [652, 652], 'AUS': [582]}
+tim total: 607
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 602
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 622
+gates open time: 652
+gates closed: 3
+gates: 3
+prog 1 1
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 657
+out of func
+Modifying the record: ['T4', 'DAL', 'HOU', 557, 622, 657]
+tim total: 607
+gates open time: 652
+gates closed: 3
+gates: 3
+tim total: 602
+gates open time: 556
+gates closed: 3
+gates: 4
+tim total: 622
+gates open time: 556
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 556
+{'HOU': [556, 592, 657], 'DAL': [652, 652], 'AUS': [582]}
+tim total: 607
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 602
+gates open time: 582
+gates closed: 2
+gates: 2
+tim total: 622
+gates open time: 652
+gates closed: 3
+gates: 3
+prog 1 1
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 657
+out of func
+Modifying the record: ['T5', 'DAL', 'HOU', 557, 622, 657]
+tim total: 633
+gates open time: 652
+gates closed: 1
+gates: 3
+tim total: 628
+gates open time: 592
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 592
+{'HOU': [592, 657, 657], 'DAL': [652, 652], 'AUS': [582]}
+tim total: 648
+gates open time: 592
+gates closed: 1
+gates: 4
+tim total: 633
+gates open time: 582
+gates closed: 1
+gates: 2
+tim total: 628
+gates open time: 582
+gates closed: 1
+gates: 2
+tim total: 648
+gates open time: 652
+gates closed: 1
+gates: 3
+prog 1 2
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 663
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 583, 628, 663]
+tim total: 643
+gates open time: 652
+gates closed: 1
+gates: 3
+tim total: 638
+gates open time: 657
+gates closed: 2
+gates: 4
+tim total: 658
+gates open time: 657
+gates closed: 2
+gates: 4
+tim total: 643
+gates open time: 582
+gates closed: 1
+gates: 2
+tim total: 638
+gates open time: 582
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 582
+{'HOU': [657, 657, 663], 'DAL': [652, 652], 'AUS': [582]}
+tim total: 658
+gates open time: 652
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 652
+{'HOU': [657, 657, 663], 'DAL': [652, 652], 'AUS': [582]}
+prog 1 2
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 663
+out of func
+Modifying the record: ['T1', 'HOU', 'AUS', 593, 638, 663]
+tim total: 703
+gates open time: 652
+gates closed: 1
+gates: 3
+tim total: 698
+gates open time: 657
+gates closed: 2
+gates: 4
+tim total: 718
+gates open time: 657
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 657
+{'HOU': [657, 657, 663], 'DAL': [652, 652], 'AUS': [663]}
+tim total: 703
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 698
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 718
+gates open time: 652
+gates closed: 1
+gates: 3
+prog 1 2
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 753
+out of func
+Modifying the record: ['T2', 'DAL', 'HOU', 653, 718, 753]
+tim total: 703
+gates open time: 652
+gates closed: 1
+gates: 3
+tim total: 698
+gates open time: 657
+gates closed: 3
+gates: 4
+tim total: 718
+gates open time: 657
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 657
+{'HOU': [657, 663, 753], 'DAL': [652, 652], 'AUS': [663]}
+tim total: 703
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 698
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 718
+gates open time: 652
+gates closed: 1
+gates: 3
+prog 1 2
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 753
+out of func
+Modifying the record: ['T3', 'DAL', 'HOU', 653, 718, 753]
+tim total: 708
+gates open time: 652
+gates closed: 1
+gates: 3
+tim total: 703
+gates open time: 663
+gates closed: 4
+gates: 4
+tim total: 723
+gates open time: 663
+gates closed: 4
+gates: 4
+tim total: 708
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 703
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 723
+gates open time: 652
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 652
+{'HOU': [663, 753, 753], 'DAL': [652, 652], 'AUS': [663]}
+prog 1 2
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 753
+out of func
+Modifying the record: ['T4', 'HOU', 'DAL', 658, 723, 753]
+tim total: 708
+gates open time: 652
+gates closed: 2
+gates: 3
+tim total: 703
+gates open time: 663
+gates closed: 4
+gates: 4
+tim total: 723
+gates open time: 663
+gates closed: 4
+gates: 4
+tim total: 708
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 703
+gates open time: 663
+gates closed: 2
+gates: 2
+tim total: 723
+gates open time: 652
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 652
+{'HOU': [663, 753, 753], 'DAL': [652, 753], 'AUS': [663]}
+prog 1 2
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 753
+out of func
+Modifying the record: ['T5', 'HOU', 'DAL', 658, 723, 753]
+tim total: 714
+gates open time: 753
+gates closed: 1
+gates: 3
+tim total: 709
+gates open time: 663
+gates closed: 1
+gates: 4
+tim total: 729
+gates open time: 663
+gates closed: 1
+gates: 4
+tim total: 714
+gates open time: 663
+gates closed: 1
+gates: 2
+tim total: 709
+gates open time: 663
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 663
+{'HOU': [663, 753, 753], 'DAL': [753, 753], 'AUS': [663]}
+tim total: 729
+gates open time: 753
+gates closed: 1
+gates: 3
+prog 1 3
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 734
+out of func
+Modifying the record: ['T6', 'HOU', 'AUS', 664, 709, 734]
+tim total: 714
+gates open time: 753
+gates closed: 1
+gates: 3
+tim total: 709
+gates open time: 663
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 663
+{'HOU': [663, 753, 753], 'DAL': [753, 753], 'AUS': [734]}
+tim total: 729
+gates open time: 663
+gates closed: 1
+gates: 4
+tim total: 714
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 709
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 729
+gates open time: 753
+gates closed: 1
+gates: 3
+prog 1 3
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 744
+out of func
+Modifying the record: ['T1', 'AUS', 'HOU', 664, 709, 744]
+tim total: 804
+gates open time: 753
+gates closed: 1
+gates: 3
+tim total: 799
+gates open time: 744
+gates closed: 2
+gates: 4
+tim total: 819
+gates open time: 744
+gates closed: 2
+gates: 4
+tim total: 804
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 799
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 819
+gates open time: 753
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 753
+{'HOU': [744, 753, 753], 'DAL': [753, 753], 'AUS': [734]}
+prog 1 3
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 849
+out of func
+Modifying the record: ['T2', 'HOU', 'DAL', 754, 819, 849]
+tim total: 804
+gates open time: 753
+gates closed: 2
+gates: 3
+tim total: 799
+gates open time: 744
+gates closed: 2
+gates: 4
+tim total: 819
+gates open time: 744
+gates closed: 2
+gates: 4
+tim total: 804
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 799
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 819
+gates open time: 753
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 753
+{'HOU': [744, 753, 753], 'DAL': [753, 849], 'AUS': [734]}
+prog 1 3
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 849
+out of func
+Modifying the record: ['T3', 'HOU', 'DAL', 754, 819, 849]
+tim total: 804
+gates open time: 849
+gates closed: 3
+gates: 3
+tim total: 799
+gates open time: 744
+gates closed: 2
+gates: 4
+tim total: 819
+gates open time: 744
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 744
+{'HOU': [744, 753, 753], 'DAL': [849, 849], 'AUS': [734]}
+tim total: 804
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 799
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 819
+gates open time: 849
+gates closed: 3
+gates: 3
+prog 1 3
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 854
+out of func
+Modifying the record: ['T4', 'DAL', 'HOU', 754, 819, 854]
+tim total: 804
+gates open time: 849
+gates closed: 3
+gates: 3
+tim total: 799
+gates open time: 753
+gates closed: 3
+gates: 4
+tim total: 819
+gates open time: 753
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 753
+{'HOU': [753, 753, 854], 'DAL': [849, 849], 'AUS': [734]}
+tim total: 804
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 799
+gates open time: 734
+gates closed: 2
+gates: 2
+tim total: 819
+gates open time: 849
+gates closed: 3
+gates: 3
+prog 1 3
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 854
+out of func
+Modifying the record: ['T5', 'DAL', 'HOU', 754, 819, 854]
+tim total: 785
+gates open time: 849
+gates closed: 1
+gates: 3
+tim total: 780
+gates open time: 753
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 753
+{'HOU': [753, 854, 854], 'DAL': [849, 849], 'AUS': [734]}
+tim total: 800
+gates open time: 753
+gates closed: 1
+gates: 4
+tim total: 785
+gates open time: 734
+gates closed: 1
+gates: 2
+tim total: 780
+gates open time: 734
+gates closed: 1
+gates: 2
+tim total: 800
+gates open time: 849
+gates closed: 1
+gates: 3
+prog 2 4
+poss [['HOU', 780]]
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 815
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 735, 780, 815]
+tim total: 795
+gates open time: 849
+gates closed: 1
+gates: 3
+tim total: 790
+gates open time: 815
+gates closed: 2
+gates: 4
+tim total: 810
+gates open time: 815
+gates closed: 2
+gates: 4
+tim total: 795
+gates open time: 734
+gates closed: 1
+gates: 2
+tim total: 790
+gates open time: 734
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 734
+{'HOU': [815, 854, 854], 'DAL': [849, 849], 'AUS': [734]}
+tim total: 810
+gates open time: 849
+gates closed: 1
+gates: 3
+prog 2 4
+poss [['AUS', 790]]
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 815
+out of func
+Modifying the record: ['T1', 'HOU', 'AUS', 745, 790, 815]
+tim total: 900
+gates open time: 849
+gates closed: 1
+gates: 3
+tim total: 895
+gates open time: 815
+gates closed: 2
+gates: 4
+tim total: 915
+gates open time: 815
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 815
+{'HOU': [815, 854, 854], 'DAL': [849, 849], 'AUS': [815]}
+tim total: 900
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 895
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 915
+gates open time: 849
+gates closed: 1
+gates: 3
+prog 2 4
+poss [['HOU', 915]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 950
+out of func
+Modifying the record: ['T2', 'DAL', 'HOU', 850, 915, 950]
+tim total: 900
+gates open time: 849
+gates closed: 1
+gates: 3
+tim total: 895
+gates open time: 854
+gates closed: 3
+gates: 4
+tim total: 915
+gates open time: 854
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 854
+{'HOU': [854, 854, 950], 'DAL': [849, 849], 'AUS': [815]}
+tim total: 900
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 895
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 915
+gates open time: 849
+gates closed: 1
+gates: 3
+prog 2 4
+poss [['HOU', 915]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 950
+out of func
+Modifying the record: ['T3', 'DAL', 'HOU', 850, 915, 950]
+tim total: 905
+gates open time: 849
+gates closed: 1
+gates: 3
+tim total: 900
+gates open time: 854
+gates closed: 4
+gates: 4
+tim total: 920
+gates open time: 854
+gates closed: 4
+gates: 4
+tim total: 905
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 900
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 920
+gates open time: 849
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 849
+{'HOU': [854, 950, 950], 'DAL': [849, 849], 'AUS': [815]}
+prog 2 4
+poss [['DAL', 920]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 950
+out of func
+Modifying the record: ['T4', 'HOU', 'DAL', 855, 920, 950]
+tim total: 905
+gates open time: 849
+gates closed: 2
+gates: 3
+tim total: 900
+gates open time: 854
+gates closed: 4
+gates: 4
+tim total: 920
+gates open time: 854
+gates closed: 4
+gates: 4
+tim total: 905
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 900
+gates open time: 815
+gates closed: 2
+gates: 2
+tim total: 920
+gates open time: 849
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 849
+{'HOU': [854, 950, 950], 'DAL': [849, 950], 'AUS': [815]}
+prog 2 4
+poss [['DAL', 920]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 950
+out of func
+Modifying the record: ['T5', 'HOU', 'DAL', 855, 920, 950]
+tim total: 866
+gates open time: 950
+gates closed: 1
+gates: 3
+tim total: 861
+gates open time: 854
+gates closed: 1
+gates: 4
+tim total: 881
+gates open time: 854
+gates closed: 1
+gates: 4
+tim total: 866
+gates open time: 815
+gates closed: 1
+gates: 2
+tim total: 861
+gates open time: 815
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 815
+{'HOU': [854, 950, 950], 'DAL': [950, 950], 'AUS': [815]}
+tim total: 881
+gates open time: 950
+gates closed: 1
+gates: 3
+prog 2 5
+poss [['AUS', 861]]
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 886
+out of func
+Modifying the record: ['T6', 'HOU', 'AUS', 816, 861, 886]
+tim total: 866
+gates open time: 950
+gates closed: 1
+gates: 3
+tim total: 861
+gates open time: 854
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 854
+{'HOU': [854, 950, 950], 'DAL': [950, 950], 'AUS': [886]}
+tim total: 881
+gates open time: 854
+gates closed: 1
+gates: 4
+tim total: 866
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 861
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 881
+gates open time: 950
+gates closed: 1
+gates: 3
+prog 2 5
+poss [['HOU', 861]]
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 896
+out of func
+Modifying the record: ['T1', 'AUS', 'HOU', 816, 861, 896]
+tim total: 1001
+gates open time: 950
+gates closed: 1
+gates: 3
+tim total: 996
+gates open time: 896
+gates closed: 2
+gates: 4
+tim total: 1016
+gates open time: 896
+gates closed: 2
+gates: 4
+tim total: 1001
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 996
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 1016
+gates open time: 950
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 950
+{'HOU': [896, 950, 950], 'DAL': [950, 950], 'AUS': [886]}
+prog 2 5
+poss [['DAL', 1016]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1046
+out of func
+Modifying the record: ['T2', 'HOU', 'DAL', 951, 1016, 1046]
+tim total: 1001
+gates open time: 950
+gates closed: 2
+gates: 3
+tim total: 996
+gates open time: 896
+gates closed: 2
+gates: 4
+tim total: 1016
+gates open time: 896
+gates closed: 2
+gates: 4
+tim total: 1001
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 996
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 1016
+gates open time: 950
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 950
+{'HOU': [896, 950, 950], 'DAL': [950, 1046], 'AUS': [886]}
+prog 2 5
+poss [['DAL', 1016]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1046
+out of func
+Modifying the record: ['T3', 'HOU', 'DAL', 951, 1016, 1046]
+tim total: 1001
+gates open time: 1046
+gates closed: 3
+gates: 3
+tim total: 996
+gates open time: 896
+gates closed: 2
+gates: 4
+tim total: 1016
+gates open time: 896
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 896
+{'HOU': [896, 950, 950], 'DAL': [1046, 1046], 'AUS': [886]}
+tim total: 1001
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 996
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 1016
+gates open time: 1046
+gates closed: 3
+gates: 3
+prog 2 5
+poss [['HOU', 1016]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1051
+out of func
+Modifying the record: ['T4', 'DAL', 'HOU', 951, 1016, 1051]
+tim total: 1001
+gates open time: 1046
+gates closed: 3
+gates: 3
+tim total: 996
+gates open time: 950
+gates closed: 3
+gates: 4
+tim total: 1016
+gates open time: 950
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 950
+{'HOU': [950, 950, 1051], 'DAL': [1046, 1046], 'AUS': [886]}
+tim total: 1001
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 996
+gates open time: 886
+gates closed: 2
+gates: 2
+tim total: 1016
+gates open time: 1046
+gates closed: 3
+gates: 3
+prog 2 5
+poss [['HOU', 1016]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1051
+out of func
+Modifying the record: ['T5', 'DAL', 'HOU', 951, 1016, 1051]
+tim total: 937
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 932
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 952
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 937
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 932
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 952
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 939
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 934
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 954
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 939
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 934
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 954
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 941
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 936
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 956
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 941
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 936
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 956
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 943
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 938
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 958
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 943
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 938
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 958
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 945
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 940
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 960
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 945
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 940
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 960
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 947
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 942
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 962
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 947
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 942
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 962
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 949
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 944
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 964
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 949
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 944
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 964
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 951
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 946
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 966
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 951
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 946
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 966
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 953
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 948
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 968
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 953
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 948
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 968
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 955
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 950
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 970
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 955
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 950
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 970
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+calling func again
+tim total: 957
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 952
+gates open time: 950
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 950
+{'HOU': [950, 1051, 1051], 'DAL': [1046, 1046], 'AUS': [886]}
+tim total: 972
+gates open time: 950
+gates closed: 1
+gates: 4
+tim total: 957
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 952
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 972
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 987
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 907, 952, 987]
+tim total: 947
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 942
+gates open time: 987
+gates closed: 2
+gates: 4
+tim total: 962
+gates open time: 987
+gates closed: 2
+gates: 4
+tim total: 947
+gates open time: 886
+gates closed: 1
+gates: 2
+tim total: 942
+gates open time: 886
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 886
+{'HOU': [987, 1051, 1051], 'DAL': [1046, 1046], 'AUS': [886]}
+tim total: 962
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 967
+out of func
+Modifying the record: ['T1', 'HOU', 'AUS', 897, 942, 967]
+tim total: 1097
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 1092
+gates open time: 987
+gates closed: 2
+gates: 4
+tim total: 1112
+gates open time: 987
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 987
+{'HOU': [987, 1051, 1051], 'DAL': [1046, 1046], 'AUS': [967]}
+tim total: 1097
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1092
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1112
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1147
+out of func
+Modifying the record: ['T2', 'DAL', 'HOU', 1047, 1112, 1147]
+tim total: 1097
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 1092
+gates open time: 1051
+gates closed: 3
+gates: 4
+tim total: 1112
+gates open time: 1051
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 1051
+{'HOU': [1051, 1051, 1147], 'DAL': [1046, 1046], 'AUS': [967]}
+tim total: 1097
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1092
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1112
+gates open time: 1046
+gates closed: 1
+gates: 3
+prog 1 but>4 6
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1147
+out of func
+Modifying the record: ['T3', 'DAL', 'HOU', 1047, 1112, 1147]
+tim total: 1102
+gates open time: 1046
+gates closed: 1
+gates: 3
+tim total: 1097
+gates open time: 1051
+gates closed: 4
+gates: 4
+tim total: 1117
+gates open time: 1051
+gates closed: 4
+gates: 4
+tim total: 1102
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1097
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1117
+gates open time: 1046
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 1046
+{'HOU': [1051, 1147, 1147], 'DAL': [1046, 1046], 'AUS': [967]}
+prog 1 but>4 6
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1147
+out of func
+Modifying the record: ['T4', 'HOU', 'DAL', 1052, 1117, 1147]
+tim total: 1102
+gates open time: 1046
+gates closed: 2
+gates: 3
+tim total: 1097
+gates open time: 1051
+gates closed: 4
+gates: 4
+tim total: 1117
+gates open time: 1051
+gates closed: 4
+gates: 4
+tim total: 1102
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1097
+gates open time: 967
+gates closed: 2
+gates: 2
+tim total: 1117
+gates open time: 1046
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 1046
+{'HOU': [1051, 1147, 1147], 'DAL': [1046, 1147], 'AUS': [967]}
+prog 1 but>4 6
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1147
+out of func
+Modifying the record: ['T5', 'HOU', 'DAL', 1052, 1117, 1147]
+tim total: 1018
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1013
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1033
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1018
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1013
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1033
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1020
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1015
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1035
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1020
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1015
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1035
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1022
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1017
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1037
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1022
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1017
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1037
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1024
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1019
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1039
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1024
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1019
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1039
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1026
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1021
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1041
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1026
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1021
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1041
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1028
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1023
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1043
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1028
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1023
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1043
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1030
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1025
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1045
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1030
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1025
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1045
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1032
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1027
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1047
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1032
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1027
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1047
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1034
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1029
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1049
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1034
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1029
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1049
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1036
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1031
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1051
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1036
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1031
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1051
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1038
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1033
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1053
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1038
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1033
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1053
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1040
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1035
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1055
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1040
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1035
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1055
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1042
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1037
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1057
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1042
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1037
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1057
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1044
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1039
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1059
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1044
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1039
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1059
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1046
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1041
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1061
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1046
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1041
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1061
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1048
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1043
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1063
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1048
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1043
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1063
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1050
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1045
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1065
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1050
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1045
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1065
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1052
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1047
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1067
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1052
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1047
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1067
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1054
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1049
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1069
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1054
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1049
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1069
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1056
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1051
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1071
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1056
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1051
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1071
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss []
+calling func again
+tim total: 1058
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1053
+gates open time: 1051
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 1051
+{'HOU': [1051, 1147, 1147], 'DAL': [1147, 1147], 'AUS': [967]}
+tim total: 1073
+gates open time: 1051
+gates closed: 1
+gates: 4
+tim total: 1058
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1053
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1073
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss [['HOU', 1053]]
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 1088
+out of func
+Modifying the record: ['T1', 'AUS', 'HOU', 1008, 1053, 1088]
+tim total: 1038
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1033
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1053
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1038
+gates open time: 967
+gates closed: 1
+gates: 2
+tim total: 1033
+gates open time: 967
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 967
+{'HOU': [1088, 1147, 1147], 'DAL': [1147, 1147], 'AUS': [967]}
+tim total: 1053
+gates open time: 1147
+gates closed: 1
+gates: 3
+prog 2 7
+poss [['AUS', 1033]]
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 1058
+out of func
+Modifying the record: ['T6', 'HOU', 'AUS', 988, 1033, 1058]
+tim total: 1198
+gates open time: 1147
+gates closed: 1
+gates: 3
+tim total: 1193
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1213
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1198
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1193
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1213
+gates open time: 1147
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 1147
+{'HOU': [1088, 1147, 1147], 'DAL': [1147, 1147], 'AUS': [1058]}
+prog 2 7
+poss [['DAL', 1213]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1243
+out of func
+Modifying the record: ['T2', 'HOU', 'DAL', 1148, 1213, 1243]
+tim total: 1198
+gates open time: 1147
+gates closed: 2
+gates: 3
+tim total: 1193
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1213
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1198
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1193
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1213
+gates open time: 1147
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 1147
+{'HOU': [1088, 1147, 1147], 'DAL': [1147, 1243], 'AUS': [1058]}
+prog 2 7
+poss [['DAL', 1213]]
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1243
+out of func
+Modifying the record: ['T3', 'HOU', 'DAL', 1148, 1213, 1243]
+tim total: 1198
+gates open time: 1243
+gates closed: 3
+gates: 3
+tim total: 1193
+gates open time: 1088
+gates closed: 2
+gates: 4
+tim total: 1213
+gates open time: 1088
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 1088
+{'HOU': [1088, 1147, 1147], 'DAL': [1243, 1243], 'AUS': [1058]}
+tim total: 1198
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1193
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1213
+gates open time: 1243
+gates closed: 3
+gates: 3
+prog 2 7
+poss [['HOU', 1213]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1248
+out of func
+Modifying the record: ['T4', 'DAL', 'HOU', 1148, 1213, 1248]
+tim total: 1198
+gates open time: 1243
+gates closed: 3
+gates: 3
+tim total: 1193
+gates open time: 1147
+gates closed: 3
+gates: 4
+tim total: 1213
+gates open time: 1147
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 1147
+{'HOU': [1147, 1147, 1248], 'DAL': [1243, 1243], 'AUS': [1058]}
+tim total: 1198
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1193
+gates open time: 1058
+gates closed: 2
+gates: 2
+tim total: 1213
+gates open time: 1243
+gates closed: 3
+gates: 3
+prog 2 7
+poss [['HOU', 1213]]
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1248
+out of func
+Modifying the record: ['T5', 'DAL', 'HOU', 1148, 1213, 1248]
+tim total: 1109
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1104
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1124
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1109
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1104
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1124
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1111
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1106
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1126
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1111
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1106
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1126
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1113
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1108
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1128
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1113
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1108
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1128
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1115
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1110
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1130
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1115
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1110
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1130
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1117
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1112
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1132
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1117
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1112
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1132
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1119
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1114
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1134
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1119
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1114
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1134
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1121
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1116
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1136
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1121
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1116
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1136
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1123
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1118
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1138
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1123
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1118
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1138
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1125
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1120
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1140
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1125
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1120
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1140
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1127
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1122
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1142
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1127
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1122
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1142
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1129
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1124
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1144
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1129
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1124
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1144
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1131
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1126
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1146
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1131
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1126
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1146
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1133
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1128
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1148
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1133
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1128
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1148
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1135
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1130
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1150
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1135
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1130
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1150
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1137
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1132
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1152
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1137
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1132
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1152
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1139
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1134
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1154
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1139
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1134
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1154
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1141
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1136
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1156
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1141
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1136
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1156
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1143
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1138
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1158
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1143
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1138
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1158
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1145
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1140
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1160
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1145
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1140
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1160
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1147
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1142
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1162
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1147
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1142
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1162
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1149
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1144
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1164
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1149
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1144
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1164
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1151
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1146
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1166
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1151
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1146
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1166
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+calling func again
+tim total: 1153
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1148
+gates open time: 1147
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 1147
+{'HOU': [1147, 1248, 1248], 'DAL': [1243, 1243], 'AUS': [1058]}
+tim total: 1168
+gates open time: 1147
+gates closed: 1
+gates: 4
+tim total: 1153
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1148
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1168
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 1183
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 1103, 1148, 1183]
+tim total: 1139
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1134
+gates open time: 1183
+gates closed: 2
+gates: 4
+tim total: 1154
+gates open time: 1183
+gates closed: 2
+gates: 4
+tim total: 1139
+gates open time: 1058
+gates closed: 1
+gates: 2
+tim total: 1134
+gates open time: 1058
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 1058
+{'HOU': [1183, 1248, 1248], 'DAL': [1243, 1243], 'AUS': [1058]}
+tim total: 1154
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 1159
+out of func
+Modifying the record: ['T1', 'HOU', 'AUS', 1089, 1134, 1159]
+tim total: 1294
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1289
+gates open time: 1183
+gates closed: 2
+gates: 4
+tim total: 1309
+gates open time: 1183
+gates closed: 2
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 2
+gates avl: 4
+gate open time : 1183
+{'HOU': [1183, 1248, 1248], 'DAL': [1243, 1243], 'AUS': [1159]}
+tim total: 1294
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1289
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1309
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1344
+out of func
+Modifying the record: ['T2', 'DAL', 'HOU', 1244, 1309, 1344]
+tim total: 1294
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1289
+gates open time: 1248
+gates closed: 3
+gates: 4
+tim total: 1309
+gates open time: 1248
+gates closed: 3
+gates: 4
+from: DAL
+to: HOU
+no of gates closed: 3
+gates avl: 4
+gate open time : 1248
+{'HOU': [1248, 1248, 1344], 'DAL': [1243, 1243], 'AUS': [1159]}
+tim total: 1294
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1289
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1309
+gates open time: 1243
+gates closed: 1
+gates: 3
+prog 1 but>4 8
+Decided leaving from: DAL
+Decided dest to: HOU
+grnd_time: 1344
+out of func
+Modifying the record: ['T3', 'DAL', 'HOU', 1244, 1309, 1344]
+tim total: 1299
+gates open time: 1243
+gates closed: 1
+gates: 3
+tim total: 1294
+gates open time: 1248
+gates closed: 4
+gates: 4
+tim total: 1314
+gates open time: 1248
+gates closed: 4
+gates: 4
+tim total: 1299
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1294
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1314
+gates open time: 1243
+gates closed: 1
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 1
+gates avl: 3
+gate open time : 1243
+{'HOU': [1248, 1344, 1344], 'DAL': [1243, 1243], 'AUS': [1159]}
+prog 1 but>4 8
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1344
+out of func
+Modifying the record: ['T4', 'HOU', 'DAL', 1249, 1314, 1344]
+tim total: 1299
+gates open time: 1243
+gates closed: 2
+gates: 3
+tim total: 1294
+gates open time: 1248
+gates closed: 4
+gates: 4
+tim total: 1314
+gates open time: 1248
+gates closed: 4
+gates: 4
+tim total: 1299
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1294
+gates open time: 1159
+gates closed: 2
+gates: 2
+tim total: 1314
+gates open time: 1243
+gates closed: 2
+gates: 3
+from: HOU
+to: DAL
+no of gates closed: 2
+gates avl: 3
+gate open time : 1243
+{'HOU': [1248, 1344, 1344], 'DAL': [1243, 1344], 'AUS': [1159]}
+prog 1 but>4 8
+Decided leaving from: HOU
+Decided dest to: DAL
+grnd_time: 1344
+out of func
+Modifying the record: ['T5', 'HOU', 'DAL', 1249, 1314, 1344]
+tim total: 1210
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1205
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1225
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1210
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1205
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1225
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1212
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1207
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1227
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1212
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1207
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1227
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1214
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1209
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1229
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1214
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1209
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1229
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1216
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1211
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1231
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1216
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1211
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1231
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1218
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1213
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1233
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1218
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1213
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1233
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1220
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1215
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1235
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1220
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1215
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1235
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1222
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1217
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1237
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1222
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1217
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1237
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1224
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1219
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1239
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1224
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1219
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1239
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1226
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1221
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1241
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1226
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1221
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1241
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1228
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1223
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1243
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1228
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1223
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1243
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1230
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1225
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1245
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1230
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1225
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1245
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1232
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1227
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1247
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1232
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1227
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1247
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1234
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1229
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1249
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1234
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1229
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1249
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1236
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1231
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1251
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1236
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1231
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1251
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1238
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1233
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1253
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1238
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1233
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1253
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1240
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1235
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1255
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1240
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1235
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1255
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1242
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1237
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1257
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1242
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1237
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1257
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1244
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1239
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1259
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1244
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1239
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1259
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1246
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1241
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1261
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1246
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1241
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1261
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1248
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1243
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1263
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1248
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1243
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1263
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1250
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1245
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1265
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1250
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1245
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1265
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1252
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1247
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1267
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1252
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1247
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1267
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss []
+calling func again
+tim total: 1254
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1249
+gates open time: 1248
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 1248
+{'HOU': [1248, 1344, 1344], 'DAL': [1344, 1344], 'AUS': [1159]}
+tim total: 1269
+gates open time: 1248
+gates closed: 1
+gates: 4
+tim total: 1254
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1249
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1269
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss [['HOU', 1249]]
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 1284
+out of func
+Modifying the record: ['T1', 'AUS', 'HOU', 1204, 1249, 1284]
+tim total: 1234
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1229
+gates open time: 1284
+gates closed: 2
+gates: 4
+tim total: 1249
+gates open time: 1284
+gates closed: 2
+gates: 4
+tim total: 1234
+gates open time: 1159
+gates closed: 1
+gates: 2
+tim total: 1229
+gates open time: 1159
+gates closed: 1
+gates: 2
+from: HOU
+to: AUS
+no of gates closed: 1
+gates avl: 2
+gate open time : 1159
+{'HOU': [1284, 1344, 1344], 'DAL': [1344, 1344], 'AUS': [1159]}
+tim total: 1249
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 2 9
+poss [['AUS', 1229]]
+Decided leaving from: HOU
+Decided dest to: AUS
+grnd_time: 1254
+out of func
+Modifying the record: ['T6', 'HOU', 'AUS', 1184, 1229, 1254]
+tim total: 1305
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1300
+gates open time: 1284
+gates closed: 1
+gates: 4
+from: AUS
+to: HOU
+no of gates closed: 1
+gates avl: 4
+gate open time : 1284
+{'HOU': [1284, 1344, 1344], 'DAL': [1344, 1344], 'AUS': [1254]}
+tim total: 1320
+gates open time: 1284
+gates closed: 1
+gates: 4
+tim total: 1305
+gates open time: 1254
+gates closed: 1
+gates: 2
+tim total: 1300
+gates open time: 1254
+gates closed: 1
+gates: 2
+tim total: 1320
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 1 but>4 10
+Decided leaving from: AUS
+Decided dest to: HOU
+grnd_time: 1335
+out of func
+Modifying the record: ['T6', 'AUS', 'HOU', 1255, 1300, 1335]
+tim total: 1335
+gates open time: 1344
+gates closed: 1
+gates: 3
+tim total: 1330
+gates open time: 1335
+gates closed: 2
+gates: 4
+tim total: 1350
+gates open time: 1335
+gates closed: 2
+gates: 4
+tim total: 1335
+gates open time: 1254
+gates closed: 1
+gates: 2
+tim total: 1330
+gates open time: 1254
+gates closed: 1
+gates: 2
+tim total: 1350
+gates open time: 1344
+gates closed: 1
+gates: 3
+prog 1 but>4 10
+list ['T1', 'AUS', 'HOU', 360, 405, 440, 'T2', 'HOU', 'DAL', 360, 425, 455, 'T3', 'HOU', 'DAL', 360, 425, 455, 'T4', 'DAL', 'HOU', 360, 425, 460, 'T5', 'DAL', 'HOU', 360, 425, 460, 'T6', 'HOU', 'AUS', 360, 405, 430, 'T6', 'AUS', 'HOU', 431, 476, 511, 'T1', 'HOU', 'AUS', 441, 486, 511, 'T2', 'DAL', 'HOU', 456, 521, 556, 'T3', 'DAL', 'HOU', 456, 521, 556, 'T4', 'HOU', 'DAL', 461, 526, 556, 'T5', 'HOU', 'DAL', 461, 526, 556, 'T6', 'HOU', 'AUS', 512, 557, 582, 'T1', 'AUS', 'HOU', 512, 557, 592, 'T2', 'HOU', 'DAL', 557, 622, 652, 'T3', 'HOU', 'DAL', 557, 622, 652, 'T4', 'DAL', 'HOU', 557, 622, 657, 'T5', 'DAL', 'HOU', 557, 622, 657, 'T6', 'AUS', 'HOU', 583, 628, 663, 'T1', 'HOU', 'AUS', 593, 638, 663, 'T2', 'DAL', 'HOU', 653, 718, 753, 'T3', 'DAL', 'HOU', 653, 718, 753, 'T4', 'HOU', 'DAL', 658, 723, 753, 'T5', 'HOU', 'DAL', 658, 723, 753, 'T6', 'HOU', 'AUS', 664, 709, 734, 'T1', 'AUS', 'HOU', 664, 709, 744, 'T2', 'HOU', 'DAL', 754, 819, 849, 'T3', 'HOU', 'DAL', 754, 819, 849, 'T4', 'DAL', 'HOU', 754, 819, 854, 'T5', 'DAL', 'HOU', 754, 819, 854, 'T6', 'AUS', 'HOU', 735, 780, 815, 'T1', 'HOU', 'AUS', 745, 790, 815, 'T2', 'DAL', 'HOU', 850, 915, 950, 'T3', 'DAL', 'HOU', 850, 915, 950, 'T4', 'HOU', 'DAL', 855, 920, 950, 'T5', 'HOU', 'DAL', 855, 920, 950, 'T6', 'HOU', 'AUS', 816, 861, 886, 'T1', 'AUS', 'HOU', 816, 861, 896, 'T2', 'HOU', 'DAL', 951, 1016, 1046, 'T3', 'HOU', 'DAL', 951, 1016, 1046, 'T4', 'DAL', 'HOU', 951, 1016, 1051, 'T5', 'DAL', 'HOU', 951, 1016, 1051, 'T6', 'AUS', 'HOU', 907, 952, 987, 'T1', 'HOU', 'AUS', 897, 942, 967, 'T2', 'DAL', 'HOU', 1047, 1112, 1147, 'T3', 'DAL', 'HOU', 1047, 1112, 1147, 'T4', 'HOU', 'DAL', 1052, 1117, 1147, 'T5', 'HOU', 'DAL', 1052, 1117, 1147, 'T1', 'AUS', 'HOU', 1008, 1053, 1088, 'T6', 'HOU', 'AUS', 988, 1033, 1058, 'T2', 'HOU', 'DAL', 1148, 1213, 1243, 'T3', 'HOU', 'DAL', 1148, 1213, 1243, 'T4', 'DAL', 'HOU', 1148, 1213, 1248, 'T5', 'DAL', 'HOU', 1148, 1213, 1248, 'T6', 'AUS', 'HOU', 1103, 1148, 1183, 'T1', 'HOU', 'AUS', 1089, 1134, 1159, 'T2', 'DAL', 'HOU', 1244, 1309, 1344, 'T3', 'DAL', 'HOU', 1244, 1309, 1344, 'T4', 'HOU', 'DAL', 1249, 1314, 1344, 'T5', 'HOU', 'DAL', 1249, 1314, 1344, 'T1', 'AUS', 'HOU', 1204, 1249, 1284, 'T6', 'HOU', 'AUS', 1184, 1229, 1254, 'T6', 'AUS', 'HOU', 1255, 1300, 1335]
+flight []
+flight []
+{'HOU': 1, 'DAL': 1, 'AUS': 1}
+['T1', 'AUS', 'HOU', 360, 405, 440, 'T2', 'HOU', 'DAL', 360, 425, 455, 'T3', 'HOU', 'DAL', 360, 425, 455, 'T4', 'DAL', 'HOU', 360, 425, 460, 'T5', 'DAL', 'HOU', 360, 425, 460, 'T6', 'HOU', 'AUS', 360, 405, 430, 'T6', 'AUS', 'HOU', 431, 476, 511, 'T1', 'HOU', 'AUS', 441, 486, 511, 'T2', 'DAL', 'HOU', 456, 521, 556, 'T3', 'DAL', 'HOU', 456, 521, 556, 'T4', 'HOU', 'DAL', 461, 526, 556, 'T5', 'HOU', 'DAL', 461, 526, 556, 'T6', 'HOU', 'AUS', 512, 557, 582, 'T1', 'AUS', 'HOU', 512, 557, 592, 'T2', 'HOU', 'DAL', 557, 622, 652, 'T3', 'HOU', 'DAL', 557, 622, 652, 'T4', 'DAL', 'HOU', 557, 622, 657, 'T5', 'DAL', 'HOU', 557, 622, 657, 'T6', 'AUS', 'HOU', 583, 628, 663, 'T1', 'HOU', 'AUS', 593, 638, 663, 'T2', 'DAL', 'HOU', 653, 718, 753, 'T3', 'DAL', 'HOU', 653, 718, 753, 'T4', 'HOU', 'DAL', 658, 723, 753, 'T5', 'HOU', 'DAL', 658, 723, 753, 'T6', 'HOU', 'AUS', 664, 709, 734, 'T1', 'AUS', 'HOU', 664, 709, 744, 'T2', 'HOU', 'DAL', 754, 819, 849, 'T3', 'HOU', 'DAL', 754, 819, 849, 'T4', 'DAL', 'HOU', 754, 819, 854, 'T5', 'DAL', 'HOU', 754, 819, 854, 'T6', 'AUS', 'HOU', 735, 780, 815, 'T1', 'HOU', 'AUS', 745, 790, 815, 'T2', 'DAL', 'HOU', 850, 915, 950, 'T3', 'DAL', 'HOU', 850, 915, 950, 'T4', 'HOU', 'DAL', 855, 920, 950, 'T5', 'HOU', 'DAL', 855, 920, 950, 'T6', 'HOU', 'AUS', 816, 861, 886, 'T1', 'AUS', 'HOU', 816, 861, 896, 'T2', 'HOU', 'DAL', 951, 1016, 1046, 'T3', 'HOU', 'DAL', 951, 1016, 1046, 'T4', 'DAL', 'HOU', 951, 1016, 1051, 'T5', 'DAL', 'HOU', 951, 1016, 1051, 'T6', 'AUS', 'HOU', 907, 952, 987, 'T1', 'HOU', 'AUS', 897, 942, 967, 'T2', 'DAL', 'HOU', 1047, 1112, 1147, 'T3', 'DAL', 'HOU', 1047, 1112, 1147, 'T4', 'HOU', 'DAL', 1052, 1117, 1147, 'T5', 'HOU', 'DAL', 1052, 1117, 1147, 'T1', 'AUS', 'HOU', 1008, 1053, 1088, 'T6', 'HOU', 'AUS', 988, 1033, 1058, 'T2', 'HOU', 'DAL', 1148, 1213, 1243, 'T3', 'HOU', 'DAL', 1148, 1213, 1243, 'T4', 'DAL', 'HOU', 1148, 1213, 1248, 'T5', 'DAL', 'HOU', 1148, 1213, 1248, 'T6', 'AUS', 'HOU', 1103, 1148, 1183, 'T1', 'HOU', 'AUS', 1089, 1134, 1159, 'T2', 'DAL', 'HOU', 1244, 1309, 1344, 'T3', 'DAL', 'HOU', 1244, 1309, 1344, 'T4', 'HOU', 'DAL', 1249, 1314, 1344, 'T5', 'HOU', 'DAL', 1249, 1314, 1344, 'T1', 'AUS', 'HOU', 1204, 1249, 1284, 'T6', 'HOU', 'AUS', 1184, 1229, 1254, 'T6', 'AUS', 'HOU', 1255, 1300, 1335]
