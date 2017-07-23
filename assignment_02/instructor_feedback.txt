@@ -1,7 +1,8 @@
 
-2017-07-23 12:39 Sunday
+2017-07-23 12:42 Sunday
  Checking Directory: assignment_02 File: analyze_medicare_data.py
 Assignment source code file found
-Assignment source code was run and generated a stack trace
+Assignment source code completed a run without a stack trace
 Please check instructor_stdout.txt for stdout (if any)
 Please check instructor_stderr.txt for stderr (if any)
+Successful run of program without stack trace = 5 points
