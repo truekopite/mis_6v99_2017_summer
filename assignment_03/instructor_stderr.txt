@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "market_basket_analytics.py", line 129, in <module>
+    new_df_test["recomm"] = new_df_test.apply(lambda row: the_reccom(set(row[3].split("|"))),axis=1)
+  File "/home/ancuser/anaconda3/lib/python3.6/site-packages/pandas/core/frame.py", line 4360, in apply
+    ignore_failures=ignore_failures)
+  File "/home/ancuser/anaconda3/lib/python3.6/site-packages/pandas/core/frame.py", line 4456, in _apply_standard
+    results[i] = func(v)
+  File "market_basket_analytics.py", line 129, in <lambda>
+    new_df_test["recomm"] = new_df_test.apply(lambda row: the_reccom(set(row[3].split("|"))),axis=1)
+  File "market_basket_analytics.py", line 109, in the_reccom
+    new = all_combination(temp_set)
+  File "market_basket_analytics.py", line 90, in all_combination
+    return all_combination(new_set)
+  File "market_basket_analytics.py", line 90, in all_combination
+    return all_combination(new_set)
+  File "market_basket_analytics.py", line 90, in all_combination
+    return all_combination(new_set)
+  File "market_basket_analytics.py", line 87, in all_combination
+    subs = subsets(new,length-1)
+  File "market_basket_analytics.py", line 63, in subsets
+    return list(itertools.combinations(Set, n))
+ValueError: ('r must be non-negative', 'occurred at index 70')
